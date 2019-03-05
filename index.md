@@ -1,6 +1,6 @@
 # Virtual Reality Inclusive Music Makers
 
-VRIMM project is the continuation of [“Immersion and Inclusive Music Technologies"](http://performancewithoutbarriers.com/iit/), a research project based at the [Sonic Arts Research Centre] (http://www.sarc.qub.ac.uk) in Belfast, that was developed throughout 2018.
+VRIMM project is the continuation of [“Immersion and Inclusive Music Technologies"](http://performancewithoutbarriers.com/iit/), a research project based at the [Sonic Arts Research Centre](http://www.sarc.qub.ac.uk) in Belfast, that was developed throughout 2018.
 
 The project promoted empathy using interdisciplinary human-centred methodologies. It brought together researchers with digital performance and immersive technology background, and was supported by three industry/community partners:
 
